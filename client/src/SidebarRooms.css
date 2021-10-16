@@ -1,0 +1,24 @@
+.sidebarRooms {
+  display: flex;
+  padding: 20px;
+  cursor: pointer;
+  border-bottom: 1px solid #dad8d8a1;
+  margin-bottom: 1px;
+  align-items: center;
+}
+
+.sidebarRooms:hover {
+  background-color: #d6d6d6a4;
+}
+.sidebarRooms_details {
+  margin-left: 15px;
+}
+.sidebarRooms_details > h2 {
+  font-size: 18px;
+}
+.sideRooms_timestamp {
+  margin-left: auto;
+}
+.sideRooms_timestamp > p {
+  font-size: x-small;
+}
